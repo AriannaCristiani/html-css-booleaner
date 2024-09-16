@@ -13,3 +13,11 @@
 #thebooleaner {
     color: rgb(88, 133, 255);
 }
+thead{
+    background-color: rgb(52, 135, 230);
+    color: white;
+}
+.tablebody{
+    background-color: rgb(84, 255, 255);
+    color: black;
+}
