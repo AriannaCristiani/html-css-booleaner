@@ -4,3 +4,10 @@
     background-color: rgb(88, 133, 255);
     background-size: contain ;
 }
+#title {
+    font-size: 230%;
+}
+.fonte{
+ color: black;
+ opacity: 50%;
+}
