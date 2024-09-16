@@ -1,0 +1,6 @@
+.logo {
+    height: 3cm;
+    background-image: url('../img/pattern.png');
+    background-color: rgb(88, 133, 255);
+    background-size: contain ;
+}
